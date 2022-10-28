@@ -1,0 +1,18 @@
+//
+//  release.xcconfig
+//  KawaseCalculator
+//
+//  Created by Chon, Felix | Felix | MESD on 2022/10/01.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// It is a good idea to store these values in remotely (i.e Firebase) and in more secure places
+API_BASEURL = "openexchangerates.org"
+GET_LATEST_EXCHANGE_RATE_PATH = "/api/latest.json"
+// crediential
+APP_ID = "9033a1f384cf44f68798c35b5beb4832"
+REFRESH_INTERVAL_IN_MINUTES = 30
+API_RETRY_COUNT = 3
+API_TIMEOUT_IN_SECS = 10.0

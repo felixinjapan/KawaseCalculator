@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1A9593E7-ADAC-4F62-BEBA-4C489FAAEC05"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39B303DA-E44C-492C-9C05-C3EA0549FBCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KawaseCalculatorTests/Domain/Usecase/StoreCurrencyUseCaseTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "test_whenSaveResponse_shouldReturnCorrectStateResult()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08994310-6220-49A6-A4F3-9E68B93A6BA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KawaseCalculatorTests/Domain/Usecase/StoreCurrencyUseCaseTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "test_whenSaveResponse_shouldReturnCorrectStateResult()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08994310-6220-49A6-A4F3-9E68B93A6BA4 - fd14549aaa6be574"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KawaseCalculatorTests.StoreCurrencyUseCaseTest.test_whenSaveResponse_shouldReturnCorrectStateResult() -&gt; ()"
+                  moduleName = "KawaseCalculatorTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seoungyul.chon/SPS/KawaseCalculator/KawaseCalculatorTests/Domain/Usecase/StoreCurrencyUseCaseTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "2250">
+               </Location>
+               <Location
+                  uuid = "08994310-6220-49A6-A4F3-9E68B93A6BA4 - fd14549aaa6be574"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KawaseCalculatorTests.StoreCurrencyUseCaseTest.test_whenSaveResponse_shouldReturnCorrectStateResult() -&gt; ()"
+                  moduleName = "KawaseCalculatorTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seoungyul.chon/SPS/KawaseCalculator/KawaseCalculatorTests/Domain/Usecase/StoreCurrencyUseCaseTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "2311">
+               </Location>
+               <Location
+                  uuid = "08994310-6220-49A6-A4F3-9E68B93A6BA4 - 9e932cee29db4809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KawaseCalculatorTests.StoreCurrencyUseCaseTest.test_whenSaveResponse_shouldReturnCorrectStateResult() -&gt; ()"
+                  moduleName = "KawaseCalculatorTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seoungyul.chon/Documents/KawaseCalculator/KawaseCalculatorTests/Domain/Usecase/StoreCurrencyUseCaseTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "2380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F7CCEAF-267E-4B2B-8822-D0BE2BC71DBD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KawaseCalculator/Domain/Usecase/FetchDataUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetchBaseCurrencyEntity(baseCurrencyEntity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F7CCEAF-267E-4B2B-8822-D0BE2BC71DBD - 5597847094d80607"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KawaseCalculator.DefaultFetchDataUseCase.fetchBaseCurrencyEntity(baseCurrencyEntity: KawaseCalculator.BaseCurrencyEntity) -&gt; Swift.Array&lt;KawaseCalculator.CurrencyEntity&gt;"
+                  moduleName = "KawaseCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seoungyul.chon/Documents/KawaseCalculator/KawaseCalculator/Domain/Usecase/FetchDataUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "8F7CCEAF-267E-4B2B-8822-D0BE2BC71DBD - 9a12f995c152bc67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KawaseCalculatorTests.DefaultFetchDataUseCase.fetchBaseCurrencyEntity(baseCurrencyEntity: KawaseCalculatorTests.BaseCurrencyEntity) -&gt; Swift.Array&lt;KawaseCalculatorTests.CurrencyEntity&gt;"
+                  moduleName = "KawaseCalculatorTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seoungyul.chon/Documents/KawaseCalculator/KawaseCalculator/Domain/Usecase/FetchDataUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
