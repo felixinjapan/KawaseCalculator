@@ -2,6 +2,8 @@
 
 Kawase converter iOS application 
 
+<img src="screenshots/iOS15.png" width="998">
+
 ## Installation
 
 Open KawaseCalculator.xcodeproj on Xcode & Run
